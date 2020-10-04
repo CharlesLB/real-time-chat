@@ -38,7 +38,7 @@ function ChatRoom(props) {
             <ChatMessage key={msg.id} message={msg} auth={props.auth} />
           ))}
 
-        {/* <span ref={dummy}></span> */}
+        <span ref={dummy}></span>
       </main>
 
       <form onSubmit={sendMessage}>
