@@ -5,7 +5,7 @@
 <p align="center">
   <a>
   <img alt="Language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
-  <img alt="Language" src="https://img.shields.io/badge/language-Firebase-red">
+  <img alt="Language" src="https://img.shields.io/badge/Firebase-red">
 
 </p>
 
