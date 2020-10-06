@@ -1,68 +1,72 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <b>:rocket:Real Time Chat!:rocket:</b> 
+</h1>
 
-## Available Scripts
+<p align="center">
+  <a>
+  <img alt="Language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
+  <img alt="Language" src="https://img.shields.io/badge/language-Firebase-red">
 
-In the project directory, you can run:
+</p>
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :bookmark: Sobre
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Cópia realizada na série [UI Clone](https://www.youtube.com/watch?v=VqP1ECc_j4M) no canal da RockeatSeat no Youtube.
 
-### `yarn test`
+<a id="documentacao"></a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :rocket: Tecnologias Utilizadas
 
-### `yarn build`
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [ReactJS](https://reactjs.org/)
+- [Firebase](https://reactjs.org/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a id=interface></a>
 
-### `yarn eject`
+## :computer: Interface
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h1 align="center">
+    <img alt="Web" src="./.github/page.png" width="900px">
+</h1>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a id="como-usar"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :fire: Como usar
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- ### **Pré-requisitos**
 
-## Learn More
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** no mínimo na versão 12.0 instalado na máquina
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - Também, é **preciso** ter as dependencias do Firebase instalado na máquina**.
+1. Faça um clone :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+  $ git clone https://github.com/CharlesLB/cloning-pages-react.git
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Para executar:
 
-### Code Splitting
+```
+  # Instale as dependências
+  $ npm install
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+  # Inicie a aplicação web
+  $ np, start
 
-### Analyzing the Bundle Size
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+<a id="como-contribuir"></a>
 
-### Making a Progressive Web App
+## :recycle: Como contribuir
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
 
-### Advanced Configuration
+## :memo: License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
